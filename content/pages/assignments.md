@@ -23,13 +23,66 @@ Worksheet for Strategic Interviews ([PDF]({{< baseurl >}}/resources/mit21g_232s0
 
 ### Dialogue
 
-| INTERVIEWER | JOB APPLICANT |
-| --- | --- |
-| 1\. Starts interview with small talk. | 1\. Responds appropriately to small talk. |
-| 2\. Ask 2-3 traditional questions. | 2\. Limits answers to 1-2 minutes. |
-| 3\. Asks for clarification at least once when applicant responds. | 3\. Asks for clarification at least once when asked a question. |
-| 4\. Asks 1-2 behavioral questions | 4\. Shows strategy (STAR or PAR) in answers. |
-| 5\. Signals closure by asking applicant for questions. | 5\. Asks 1-2 questions near the end of the interview. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+INTERVIEWER
+{{< thclose >}}
+{{< thopen >}}
+JOB APPLICANT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Starts interview with small talk.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Responds appropriately to small talk.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Ask 2-3 traditional questions.
+{{< tdclose >}}
+{{< tdopen >}}
+2\. Limits answers to 1-2 minutes.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Asks for clarification at least once when applicant responds.
+{{< tdclose >}}
+{{< tdopen >}}
+3\. Asks for clarification at least once when asked a question.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Asks 1-2 behavioral questions
+{{< tdclose >}}
+{{< tdopen >}}
+4\. Shows strategy (STAR or PAR) in answers.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Signals closure by asking applicant for questions.
+{{< tdclose >}}
+{{< tdopen >}}
+5\. Asks 1-2 questions near the end of the interview.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Evaluation
 
@@ -160,13 +213,123 @@ Sample Conventional Memo ([PDF]({{< baseurl >}}/resources/mit21g_232s07_conv_mem
 
 Sample Progress Memo ([PDF]({{< baseurl >}}/resources/mit21g_232s07_progress_mem))
 
-| MEMO # | DUE DATES | MEMO ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Ses #2 | {{< h 3 >}}Baseline Memo{{< /h >}} {{< br >}}{{< br >}} In one-two pages, describe your experience in academic English, your strengths and weaknesses in formal speaking and active listening, and what you hope to gain from 21G.232/3. Provide examples to illustrate your points. Include a list of 5-10 key terms or phrases in your discipline - terms that you frequently read, hear and say. {{< br >}}{{< br >}}  |
-| 2 | Ses #10 | {{< h 3 >}}Progress Memo{{< /h >}} {{< br >}}{{< br >}} In 1-2 pages, review the materials (other than assignments) or communication-rich contexts that have helped you to study speaking and critical listening. Your progress memo must include a review of at least one recommended material listed in your syllabus. {{< br >}}{{< br >}} See more detailed instructions [below](#progress). {{< br >}}{{< br >}}  |
-| 3 | Ses #13 | {{< h 3 >}}Class/Seminar Evaluation Memo{{< /h >}} {{< br >}}{{< br >}} While you sit in a class or attend a seminar, take notes on the skill of the professor, TA or presenter. In a memo of 1-2 pages, describe the class period or seminar from the perspectives of {{< br >}}{{< br >}} *   1\. appropriateness of purpose/audience,{{< br >}}*   2\. organization of material,{{< br >}}*   3\. delivery of material, and{{< br >}}*   4\. use of the blackboard or other visual aids. {{< br >}}{{< br >}}  |
-| 4 | Ses #17 | {{< h 3 >}}Progress Memo{{< /h >}} {{< br >}}{{< br >}} In 1-2 pages, review the materials (other than assignments) or communication-rich contexts that have helped you to study speaking and critical listening. Your progress memo must include a review of at least one recommended material listed in your syllabus. {{< br >}}{{< br >}} See more detailed instructions [below](#progress). {{< br >}}{{< br >}}  |
-| 5 | Ses #25 | {{< h 3 >}}Exit/Final Self Evaluation Memo{{< /h >}} {{< br >}}{{< br >}} Write a 1-2 page memo evaluating your progress this semester in 21G.232/3. Consider your first impromptu and compare it to your last. Consider your formal presentation skills - how have you improved? Address insights that you have gained outside of class. Provide feedback on what you feel was most useful. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MEMO #
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+MEMO ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Baseline Memo
+
+In one-two pages, describe your experience in academic English, your strengths and weaknesses in formal speaking and active listening, and what you hope to gain from 21G.232/3. Provide examples to illustrate your points. Include a list of 5-10 key terms or phrases in your discipline - terms that you frequently read, hear and say.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Progress Memo
+
+In 1-2 pages, review the materials (other than assignments) or communication-rich contexts that have helped you to study speaking and critical listening. Your progress memo must include a review of at least one recommended material listed in your syllabus.
+
+See more detailed instructions [below](#progress).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Class/Seminar Evaluation Memo
+
+While you sit in a class or attend a seminar, take notes on the skill of the professor, TA or presenter. In a memo of 1-2 pages, describe the class period or seminar from the perspectives of
+
+*   1\. appropriateness of purpose/audience,
+*   2\. organization of material,
+*   3\. delivery of material, and
+*   4\. use of the blackboard or other visual aids.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Progress Memo
+
+In 1-2 pages, review the materials (other than assignments) or communication-rich contexts that have helped you to study speaking and critical listening. Your progress memo must include a review of at least one recommended material listed in your syllabus.
+
+See more detailed instructions [below](#progress).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Exit/Final Self Evaluation Memo
+
+Write a 1-2 page memo evaluating your progress this semester in 21G.232/3. Consider your first impromptu and compare it to your last. Consider your formal presentation skills - how have you improved? Address insights that you have gained outside of class. Provide feedback on what you feel was most useful.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The **two progress memos** must provide at least one critical review of a recommended material from the syllabus as well, as any language lab or on-line materials of your choice, TV and radio programs, movies or plays, or the speaking and critical listening skills of friends, colleagues and mentors that you have noticed in social or academic contexts.
 
