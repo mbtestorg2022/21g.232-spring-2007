@@ -11,7 +11,7 @@ Alley, Michael. _The Craft of Scientific Presentations: Critical Steps to Succee
 
 Meyers, Colleen, and Sheryl Holt. _Pronunciation for Success_. Aspen Productions.
 
-Mattuck, Arthur. _[The Torch or the Firehose: A Guide for Section Teaching](/resources/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009)_.
+Mattuck, Arthur. _[The Torch or the Firehose: A Guide for Section Teaching](/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009)_.
 
 Recommended Texts
 -----------------
